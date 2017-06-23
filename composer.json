@@ -1,0 +1,14 @@
+{
+    "name": "root/vendi-wp-login-reimagined",
+    "authors": [
+        {
+            "name": "cjhaas",
+            "email": "chris@vendiadvertising.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "johnpbloch/wordpress-core-installer": "^1.0",
+        "johnpbloch/wordpress": "^4.8"
+    }
+}
