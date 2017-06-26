@@ -2,7 +2,7 @@
 
 namespace Vendi\WPLoginReimagined\Screens;
 
-class logout extends base_screen_with_post
+class register extends base_screen_with_post
 {
     public function handle_post( )
     {
@@ -16,6 +16,6 @@ class logout extends base_screen_with_post
 
     public function get_body_contents( bool $echo = true )
     {
-        echo '<h1>Logout</h1>';
+        echo '<h1>Register</h1>';
     }
 }

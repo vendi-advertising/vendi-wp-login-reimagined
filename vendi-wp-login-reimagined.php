@@ -12,4 +12,4 @@ define( 'VENDI_WP_LOGIN_REIMAGINED_PATH',      dirname( __FILE__ ) );
 
 require_once VENDI_WP_LOGIN_REIMAGINED_PATH . '/includes/autoload.php';
 
-// require_once VENDI_WP_LOGIN_REIMAGINED_PATH . '/includes/hooks.php';
+require_once VENDI_WP_LOGIN_REIMAGINED_PATH . '/includes/hooks.php';

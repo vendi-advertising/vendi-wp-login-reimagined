@@ -1,5 +1,7 @@
 <?php
 
+require_once VENDI_WP_LOGIN_REIMAGINED_PATH . '/vendor/autoload.php';
+
 spl_autoload_register(
                         function ( $class )
                         {
