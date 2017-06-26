@@ -6,7 +6,9 @@
             "email": "chris@vendiadvertising.com"
         }
     ],
-    "require": {},
+    "require": {
+        "vendi-advertising/vendi-shared-utils": "^4.0"
+    },
     "require-dev": {
         "johnpbloch/wordpress-core-installer": "^1.0",
         "johnpbloch/wordpress": "^4.8"
